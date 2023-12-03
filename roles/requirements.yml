@@ -1,0 +1,4 @@
+---
+roles:
+  - name: mamono210.wordpress_backup
+    src: https://github.com/ansible-roles-mamono210/wordpress_backup.git
